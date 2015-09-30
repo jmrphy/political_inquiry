@@ -1,0 +1,105 @@
+\documentclass[12pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for for rotated page geometry
+\usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\title{Template for Empirical Article Addressing a Debate Between Two Camps}
+\author{Name of Author}
+\date{}							% Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\abstract{Abstract goes here.}
+
+\section{Introduction}
+
+Summarise the puzzle in one short paragraph.
+
+State your theoretical solution in one short paragraph.
+
+State your research design in one short paragraph.
+
+State your findings in one short paragraph.
+
+Roadmap the following sections in one short paragraph.
+
+\section{Literature Review}
+
+Describe in one paragraph how there are two opposing camps in the literature.
+
+Summarize Camp 1 sympathetically with lots of citations, in 2-3 paragraphs.
+
+Summarize Camp 2 sympathetically with lots of citations, in 2-3 paragraphs.
+
+Highlight the key gaps/contradictions/questions from Camp 1 and/or Camp 2 which you are going to address in one strong concluding paragraph (but don't address them yet, you are just painting the hole that your study is going to fill).
+
+\section{Theory and Hypothesis}
+
+Present your theory in a series of paragraphs which are tightly logical.
+
+Deduce from the theory a specific, one or two observable implications about how some variable affects another variable, in one or two paragraphs.
+
+Summarise the one or two implication as your research hypothesis or hypotheses, in one sentence each.
+
+\section{Data and Method}
+
+Describe the dataset you have selected to use for your study, stating why this is the best data possible for your purposes. If comparative case study, explain case selection rationale.
+
+Specify the name of the dependent variable as it will appear in the tables and your discussion, explaining in one sentence exactly what it measures.
+
+Specify the name of each independent variable as it will appear in any later tables and discussion, explaining in one sentence each, exactly what each measures. (Even if you are doing a comparative case study, you need to discuss all determinants of the dependent variable, because your case selection strategy will be based on the values of these variables for your cases).
+
+Describe how you are going to investigate this data to test your hypothesis (linear regression, logistic regression, comparative case study, etc.) highlighting how this will give reliable inferences about whether your hypothesis is correct or not.
+
+If statistical model, specify the equations you will estimate. For instance, a simple linear regression:
+
+\begin{equation}
+DV_{i} = \alpha + MainIV_{i} \beta_1 + Controls_{i} \beta_2  + \varepsilon_{i}
+\end{equation}
+
+where $\alpha$ is an intercept, \emph{MainIV} is your main independent variable of interest, \emph{Controls} is a series of control variables, and $\varepsilon$ is an error term.
+
+If comparative case study, specify how you are going to explore the cases in a structured way to ensure rigorous comparison on the specific relationship articulated by your hypothesis.
+
+\section{Findings and Discussion}
+
+Present your results in a simple and clear way, at first only stating the results. If regression, state the partial correlation of your independent variable and the dependent variable, noting it's confidence interval or p-value. State briefly which of the other variables are signed as expected and significant, but don't spend much time going into the control variables.
+
+Put your regression results here.
+
+Put a graph visualizing key effect sizes here.
+
+Discuss the size of the effects, compared to each other or compared to some substantively interesting and useful benchmark.
+
+\subsection{Robustness Checks}
+
+There are many reasons why any study might be misleading, spurious, or otherwise incorrect. Discuss each key threat to your particular study, and do something to check or mitigate each one. Detailed graphical or numerical information should be put in the appendix, but anything of great interest may be fit in here.
+
+Robustness check 1, one paragraph.
+
+Robustness check 2, one paragraph.
+
+More if necessary.
+
+\subsection{Discussion}
+
+Discuss whether the results provide strong evidence, mixed evidence, or no evidence for your hypothesis; regardless, discuss anomolies, surprises, or points of possible interest for future research. Summarise what your findings say, overall, to the literature you reviewed and the gap you drew from that literature, which you have set out to fill.
+
+\section{Conclusion}
+
+Summarise your key findings clearly and forcefully, but carefully and in a balanced, honest way, in one paragraph.
+
+Summarise the limitations, drawbacks, and/or inconclusive or anomalous aspects of the study, in one paragraph.
+
+Summarise 2-3 key implications for other scholars working in the area, for policymakers, and/or for public interest.
+
+
+
+
+\end{document}  
