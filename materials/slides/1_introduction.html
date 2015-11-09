@@ -132,6 +132,15 @@
 		</div>
 
 
+<script>
+  if( window.location.search.match( /print-pdf/gi ) ) {
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'pdf.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  }
+</script>
 		
 <script>
 	var SLConfig = {"current_user":{"id":382543,"username":"justinmurphy","name":"Justin Murphy","description":null,"thumbnail_url":"https://lh4.googleusercontent.com/-sTgsuaGwaZM/AAAAAAAAAAI/AAAAAAAACAw/pRu-TXLUMJs/photo.jpg?sz=50","pro":false,"enterprise":false,"enterprise_manager":false,"settings":{"id":219042,"present_controls":true,"present_upsizing":true,"present_notes":true,"editor_grid":true,"editor_snap":true,"developer_mode":true},"registered":true,"email":"tua04809@gmail.com","notify_on_receipt":true,"billing_address":null,"editor_tutorial_completed":true,"manually_upgraded":false},"deck":{"id":504715,"slug":"deck-1","title":"Copy of deck","description":"","visibility":"all","published_at":"2015-10-01T08:08:01.900Z","sanitize_messages":null,"thumbnail_url":"https://s3.amazonaws.com/media-p.slid.es/thumbnails/secure/5cf912/decks.jpg","view_count":0,"user":{"id":382543,"username":"justinmurphy","name":"Justin Murphy","description":null,"thumbnail_url":"https://lh4.googleusercontent.com/-sTgsuaGwaZM/AAAAAAAAAAI/AAAAAAAACAw/pRu-TXLUMJs/photo.jpg?sz=50","pro":false,"enterprise":false,"enterprise_manager":false,"settings":{"id":219042,"present_controls":true,"present_upsizing":true,"present_notes":true},"registered":true},"background_transition":"slide","transition":"slide","theme_id":null,"theme_font":"league","theme_color":"cobalt-orange","auto_slide_interval":0,"comments_enabled":true,"forking_enabled":true,"rolling_links":false,"center":false,"should_loop":false,"share_notes":false,"rtl":false,"version":2,"access_token":"pnEo8oiG3XcsqrxBpiXErTz8Yxwr","notes":{}}};
