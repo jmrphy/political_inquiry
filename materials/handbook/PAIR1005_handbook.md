@@ -6,15 +6,14 @@
 **Twitter:** [@jmrphy](http://twitter.com/jmrphy)   
 **Office:** Building 58, Room 3083   
 <br>
-**Lecture 1:** Thursday 11am - 12pm   
-**Lecture 2:** Thursday 12pm - 1pm   
-**Tutorial:** Friday 1pm - 2pm   
+**Lecture 1:** Monday 1pm - 2pm (Building 54, Room 4011)   
+**Lecture 2:** Thursday 3pm - 4pm (SUSU Cinema)    
+**Seminar/Tutorial:** Friday 1pm - 2pm (Avenue 65/1133)   
 <br>
 **Contact and feedback hours:**   
-Thursday 1pm - 2pm   
-Friday 2pm - 3pm    
-**Make an appointment:**    
-[j.mp/schedule_meeting](j.mp/schedule_meeting)   
+Monday 4-5pm    
+Thursday 4-5pm   
+Or by appointment: [j.mp/schedule_meeting](j.mp/schedule_meeting)   
 
 
 This module introduces the basic concepts and practices for evaluating and making inferences in social and political research. Students will be equipped with the vocabulary and basic logical framework required to critically assess and eventually produce academic social science research. This module serves as the basis for a subsequent module on research methods (PAIR 2004).
@@ -39,18 +38,148 @@ Having successfully completed the module, students will:
 
 #### Assessment
 
-1. Students will respond to a series of in-class multiple-choice questions posed in lecture and/or seminar throughout the module. They will be automatically marked by the real-time feedback software (PollEverywhere) and worth 10% of the overall module mark.
+1. Students will submit a research design proposal template at mid-semester (500 words) worth 50% of the overall module mark.
 
-2. Students will submit a research design proposal template at mid-semester (500 words) worth 40% of the overall module mark.
-
-3. Students will submit a short research paper (1500 words) at the end of semester worth 50% of the module mark.
+2. Students will submit a short research paper (1500 words) at the end of semester worth 50% of the module mark.
 
 #### Re-sits
 
 The student will re-write both essays following the same instructions as found on the [module handbook](http://jmrphy.net/media_politics/#assessment) but the word counts will be a maximum of 2000 words for the first essay and 2500 words for the second essay, and with two additional exceptions. As stated in the module handbook, the student is free to design their own essay questions so long as it pertains to the course material and the answer uses material and knowledge gained through the module. However, whereas the handbook states students may pursue the same question in both assessments to improve their first effort, students re-sitting this module must ask and answer different questions for each essay given that they will be doing them at the same time.  Also, if a student re-sitting prefers to have a question prompts, [the convenor](mailto:j.murphy@soton.ac.uk) will gladly provide one optional prompt per question to any students re-sitting the module.
 
-### Schedule
+## Schedule
 
-An up-to-date week schedule with readings is available at [jmrphy.net/political_inquiry/](http://jmrphy.net/political_inquiry/)
+------------------------------------------------------------------------
+
+### Week 1. Introductory Sessions
+
+- Lecture 1: Introducing the module
+
+- Lecture 2: Introducing each other
+
+- Seminar 1
+
+### Week 2. Academic Research
+
+- Lecture 3: Induction into the scholarly community
+
+	- “Introduction” in BSS
+
+- Lecture 4: The scientific study of politics
+
+	- “The Scientific Study of Politics” in KW
+
+- Seminar 2: Conversation with staff
+
+### Week 3. Building Blocks
+
+- Lecture 5: The Challenge of Inference
+
+	- “The Challenge of Inference,” in BSS
+
+- Lecture 6: Hypotheses, Laws, Theories
+
+	- “Hypotheses, Laws, and Theories: A User’s Guide” in Van Evera
+
+- Seminar 3
+
+### Week 4. Descriptive Inference
+
+- Lecture 7: Data types, units, levels of analysis
+
+	- “The Challenge of Descriptive Inference” in BSS
+
+- Lecture 8: Probability, sampling, error
+
+	- “The Challenge of Descriptive Inference” in BSS
+
+- Seminar 4
+
+### Week 5. Causal Inference
+
+- Lecture 9: Developing a Causal Theory
+	- “The Art of Theory Building” in KW
+
+- Lecture 10: The Fundamental Problem of Causal Inference
+	- “Evaluating Causal Theories” in KW
+
+- Seminar 5
+
+### Week 6. Research Design
+
+- Lecture 11: Types of Research Design
+	- “Research Design” in KW
+
+- Lecture 12: Beginning an Academic Research Project
+	- “So You Have to Write a Research Paper,” in Baglione
+	- “Getting Started,” in Baglione
+
+- Seminar 6: Developing your research proposal
+
+### Week 7. Experimental Designs
+
+- Lecture 13: Experiments
+
+	- “Experiments” in BSS
+
+- Lecture 14: Conducting Experiments
+
+	- [Tutorial for creating an experiment on SurveyGizmo](http://help.surveygizmo.com/help/article/link/branching-a-b-split-testing)
+
+	- [Tutorial for creating an experiment on Qualtrics (via Harvard
+    Decision Science Lab)](http://projects.iq.harvard.edu/files/hdslundergraduates/files/qualtrics_tutorial.pdf?m=1357530717)
+
+	- [“How to link your Qualtrics survey to Amazon Mechanical Turk” by
+    Brent H. Curdy](http://brentcurdy.net/qualtrics-tutorials/link/)
+
+- Seminar 7: Running our own experiment
+
+### Week 8. Large-N Observational
+
+- Lecture 15: Using statistics to test causal relationships
+
+	- “Large-N Observational Studies” in BSS
+
+- Lecture 16: Practical statistical tools
+
+	- [Scatterplots with lines and error bars](http://help.plot.ly/make-a-graph-with-error-bars/)
+
+	- [Bar plots](http://help.plot.ly/make-a-bar-graph/)
+
+- Seminar 8: Plot.ly demonstration/workshop  
+
+### Week 9. Small-N Observational
+
+- Lecture 17: Using case selection to test causal hypotheses
+
+	- “Small-N Observational Studies” in BSS
+
+- Lecture 18: Interviews for Case Studies
+
+	- 5 scholarly articles on interviewing, selected by Dr. Chu
+
+- Seminar 9
+
+### Week 10. Writing a Research Paper (I)
+
+- Lecture 19: Political philosophy as method
+
+- Lecture 20: Finding a niche (the literature review)
+
+- Seminar 10: Making an annotated bibliography
+
+### Week 11. Writing a Research Paper (II)
+
+- Lecture 21: Presenting your theory
+	
+	- “Effectively Distilling Your Argument” in Baglione
+
+- Lecture 22: Planning & writing your research design
+
+	- “Making Your Plan and Protecting Yourself from Criticism” in
+    Baglione
+
+- Seminar 11: The basic skeleton for most types of research papers
+
+	- Document for outlining a research paper
 
 
