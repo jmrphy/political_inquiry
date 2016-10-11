@@ -38,17 +38,27 @@ Having successfully completed the module, students will:
 
 #### Assessment
 
-1. Students will submit a research design proposal template at mid-semester (500 words) worth 50% of the overall module mark.
+1. In-class questions throughout the semester, worth 10% of final mark.   
 
-2. Students will submit a short research paper (1500 words) at the end of semester worth 50% of the module mark.
+2. Students will submit a research design proposal at mid-semester (500 words) worth 40% of the overall module mark.   
+
+3. Students will submit a short research paper (1500 words) at the end of semester worth 50% of the module mark.   
 
 #### Re-sits
 
-The student will re-write both essays following the same instructions as found on the [module handbook](http://jmrphy.net/media_politics/#assessment) but the word counts will be a maximum of 2000 words for the first essay and 2500 words for the second essay, and with two additional exceptions. As stated in the module handbook, the student is free to design their own essay questions so long as it pertains to the course material and the answer uses material and knowledge gained through the module. However, whereas the handbook states students may pursue the same question in both assessments to improve their first effort, students re-sitting this module must ask and answer different questions for each essay given that they will be doing them at the same time.  Also, if a student re-sitting prefers to have a question prompts, [the convenor](mailto:j.murphy@soton.ac.uk) will gladly provide one optional prompt per question to any students re-sitting the module.
+By set coursework assignment(s). 2 x 1,000 word essays = 50% per assignment.
+
+## Texts
+
+Barakso, Maryann, Daniel M. Sabet, Brian Schaffner. 2013. <i>Understanding Political Science Research Methods.</i> New York: Routledge.
+
+- <a href="http://eds.b.ebscohost.com/eds/results?sid=24a44ce8-5869-4a3a-b70f-e0eedfe39c12%40sessionmgr113&vid=1&hid=108&bquery=(barakso+AND+research+AND+methods)&bdata=JnR5cGU9MCZzaXRlPWVkcy1saXZl">E-book via library</a></li>
+
+Kellstedt, Paul M., Guy D. Whitten. 2013.<i>The Fundamentals of Political Science Research.</i> Cambridge: Cambridge University Press.   
+
+Baglione, Lisa A. 2016. <i>Writing a Research Paper in Political Science</i>. Los Angeles: Sage.   
 
 ## Schedule
-
-------------------------------------------------------------------------
 
 ### Week 1. Introductory Sessions
 
